@@ -1,1 +1,1 @@
-# JavaAlgorithm
+# JavaAlgorithms
